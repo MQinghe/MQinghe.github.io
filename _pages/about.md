@@ -11,10 +11,11 @@ I am a Ph.D. student in [Department of Computer Science and Technology](https://
 
 
 Education
-======
-- 2022.09 - Present, Ph.D. Student, [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm), [Nanjing University](https://nju.edu.cn).
-- 2018.09 - 2022.06, B.Sc. Degree, [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm), [Nanjing University](https://nju.edu.cn).
+-----
+- **2022.09 - Present,** Ph.D. Student, [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm), [Nanjing University](https://nju.edu.cn).
+- **2018.09 - 2022.06,** B.Sc. Degree, [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm), [Nanjing University](https://nju.edu.cn).
 
+'''
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
@@ -43,7 +44,7 @@ Many people use a git client to create files on their local computer and then pu
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
-
+'''
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
