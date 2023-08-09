@@ -12,6 +12,6 @@ I am a Ph.D. student in [Department of Computer Science and Technology](https://
 
 Education
 =====
-- **2022.09 - Present,** Ph.D. Student, [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm), [Nanjing University](https://nju.edu.cn).
-- **2018.09 - 2022.06,** B.Sc. Degree, [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm), [Nanjing University](https://nju.edu.cn).
+- **2022.09 - Present,** Ph.D. Student, [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm), [Nanjing University](https://www.nju.edu.cn/).
+- **2018.09 - 2022.06,** B.Sc. Degree, [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm), [Nanjing University](https://www.nju.edu.cn/).
 
