@@ -10,11 +10,10 @@ redirect_from:
 I am a Ph.D. student in [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) at Nanjing University and a member of [Reasoning & Learning Group](https://cs.nju.edu.cn/rl/index.htm), fortunately supervised by [Prof. Yinghuan Shi](https://cs.nju.edu.cn/shiyh/index.htm). My current research interests include semi-supervised learning, semi-supervised medical image segmentation, and domain adaptation.
 
 
-A data-driven personal website
+Education
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- 2022.09 - Present, Ph.D. Student, [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm), [Nanjing University](https://nju.edu.cn).
+- 2018.09 - 2022.06, B.Sc. Degree, [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm), [Nanjing University](https://nju.edu.cn).
 
 Getting started
 ======
