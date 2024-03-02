@@ -17,4 +17,4 @@ Education
 
 Publications
 =====
-- **Qinghe Ma, Jian Zhang, Lei Qi, Qian Yu, Yinghuan Shi, Yang Gao. Constructing and Exploring Intermediate Domains in Mixed Domain Semi-supervised Medical Image Segmentation.Conference on Computer Vision and Pattern Recognition(CVPR), 2024.
+- **Qinghe Ma**, Jian Zhang, Lei Qi, Qian Yu, Yinghuan Shi, Yang Gao. Constructing and Exploring Intermediate Domains in Mixed Domain Semi-supervised Medical Image Segmentation.Conference on Computer Vision and Pattern Recognition(CVPR), 2024.
