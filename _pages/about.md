@@ -17,4 +17,4 @@ I am a Ph.D. student in [Department of Computer Science and Technology](https://
 
 ## Publications
 
-+ **Qinghe Ma**, Jian Zhang, Lei Qi, Qian Yu, Yinghuan Shi, Yang Gao. [Constructing and Exploring Intermediate Domains in Mixed Domain Semi-supervised Medical Image Segmentation.](https://arxiv.org/abs/2404.08951) Conference on Computer Vision and Pattern Recognition(*CVPR*), 2024.
++ **Qinghe Ma**, Jian Zhang, Lei Qi, Qian Yu, Yinghuan Shi, Yang Gao. [Constructing and Exploring Intermediate Domains in Mixed Domain Semi-supervised Medical Image Segmentation.](https://openaccess.thecvf.com/content/CVPR2024/html/Ma_Constructing_and_Exploring_Intermediate_Domains_in_Mixed_Domain_Semi-supervised_Medical_CVPR_2024_paper.html) Conference on Computer Vision and Pattern Recognition(*CVPR*), 2024.
