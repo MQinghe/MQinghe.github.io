@@ -23,9 +23,13 @@ I am a Ph.D. student in [Department of Computer Science and Technology](https://
 
 ## Honors
 Outstanding Graduate (优秀研究生), 2024
+
 First-Class Graduate Talent Scholarship (研究生英才奖学金一等奖), 2024
+
 President's Special Scholarship for Doctoral Students (博士研究生校长特别奖学金), 2022
+
 Outstanding Graduating Students (优秀毕业生), 2022
+
 Renmin First, Second, and Third Prize Scholarship (一、二、三等人民奖学金), 2018-2022
 
 ## Services
