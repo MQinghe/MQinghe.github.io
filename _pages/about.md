@@ -15,9 +15,9 @@ I am a Ph.D. student in [Department of Computer Science and Technology](https://
 + **2022.09 - Present,** Ph.D. Student, [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm), [Nanjing University](https://www.nju.edu.cn/).
 + **2018.09 - 2022.06,** B.Sc. Degree, [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm), [Nanjing University](https://www.nju.edu.cn/).
 
-## Internship Experience
+## Internship
 
-+ **2025.04 - Present,** Research Intern, Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab).
++ **2025.04 - Present,** Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab).
   + Conducting research on multimodal large models and medical visual understanding.
 
 ## Publications
