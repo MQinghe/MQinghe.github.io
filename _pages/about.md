@@ -29,10 +29,10 @@ I am a Ph.D. student in [Department of Computer Science and Technology](https://
 
 ## Honors & Awards
 
-+ President's Special Scholarship for Doctoral Students, Nanjing University, 2022
 + Yanbao Foundation Scholarship, 2025
 + First-Class Graduate Talent Scholarship, Nanjing University, 2024
 + Outstanding Graduate, Nanjing University, 2024–2025
++ President's Special Scholarship for Doctoral Students, Nanjing University, 2022
 + Outstanding Graduating Student, Nanjing University, 2022
 + Renmin Scholarship (First-, Second-, and Third-Class), 2018–2022
 
