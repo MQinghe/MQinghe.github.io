@@ -19,6 +19,7 @@ I am a Ph.D. student in [Department of Computer Science and Technology](https://
 
 + **2025.04 - Present,** Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab).
   + Conducting research on multimodal large models and medical visual understanding.
+  + Research Intern, directed by Dr. Zhen Zhao [http://zhaozhen.me/].
 
 ## Publications
 
