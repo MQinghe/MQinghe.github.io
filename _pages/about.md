@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student in [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) at Nanjing University and a member of [Reasoning & Learning Group](https://cs.nju.edu.cn/rl/index.htm), fortunately supervised by [Prof. Yinghuan Shi](https://cs.nju.edu.cn/shiyh/index.htm). My current research interests include semi-supervised learning, semi-supervised medical image segmentation, and domain adaptation.
+I am a Ph.D. student in [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) at Nanjing University and a member of [Reasoning & Learning Group](https://cs.nju.edu.cn/rl/index.htm), fortunately supervised by [Prof. Yinghuan Shi](https://cs.nju.edu.cn/shiyh/index.htm). My current research interests include multimodal large language model reasoning, semi-supervised medical image segmentation, and domain adaptation.
 
 
 ## Education
@@ -17,12 +17,13 @@ I am a Ph.D. student in [Department of Computer Science and Technology](https://
 
 ## Internship
 
-+ **2025.04 - Present,** Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab).
++ **2025.04 - 2025.05,** Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab).
   + Conducting research on multimodal large models and medical visual understanding.
   + Research Intern, directed by Dr. [Zhen Zhao](http://zhaozhen.me/).
 
 ## Publications
 
++ **Qinghe Ma**, Zhen Zhao, Yiming Wu, Jian Zhang, LEI BAI, Yinghuan Shi. [Are Tools Always Beneficial? Learning to Invoke Tools Adaptively for Dual-Mode Multimodal LLM Reasoning.](https://mqinghe.github.io/) Forty-Third International Conference on Machine Learning (*ICML*), 2026.
 + **Qinghe Ma**, Jian Zhang, Lei Qi, Qian Yu, Yinghuan Shi, Yang Gao. [Unleashing the Power of Intermediate Domains for Mixed Domain Semi-Supervised Medical Image Segmentation.](https://ieeexplore.ieee.org/abstract/document/11018496) IEEE Transactions on Medical Imaging (*TMI*), 2025.
 + **Qinghe Ma**, Jian Zhang, Zekun Li, Lei Qi, Qian Yu, Yinghuan Shi. [Steady Progress Beats Stagnation: Mutual Aid of Foundation and Conventional Models in Mixed Domain Semi-Supervised Medical Image Segmentation.](https://mqinghe.github.io/) Conference on Computer Vision and Pattern Recognition (*CVPR*), 2025.
 + **Qinghe Ma**, Jian Zhang, Lei Qi, Qian Yu, Yinghuan Shi, Yang Gao. [Constructing and Exploring Intermediate Domains in Mixed Domain Semi-supervised Medical Image Segmentation.](https://openaccess.thecvf.com/content/CVPR2024/html/Ma_Constructing_and_Exploring_Intermediate_Domains_in_Mixed_Domain_Semi-supervised_Medical_CVPR_2024_paper.html) Conference on Computer Vision and Pattern Recognition (*CVPR*), 2024.
@@ -38,5 +39,5 @@ I am a Ph.D. student in [Department of Computer Science and Technology](https://
 + Renmin Scholarship (First-, Second-, and Third-Class), 2018–2022
 
 ## Services
-Reviewer for CVPR, ICCV, PRCV, TIP, TMI, JBHI, TNNLS, MEDIA.
+Reviewer for CVPR, ICCV, ICML, ICLR, PRCV, TIP, TMI, JBHI, TNNLS, MEDIA.
 
