@@ -17,9 +17,14 @@ I am a Ph.D. student in [Department of Computer Science and Technology](https://
 
 ## Internship
 
-+ **2025.04 - 2025.05,** Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab).
-  + Conducting research on multimodal large models and medical visual understanding.
-  + Research Intern, directed by Dr. [Zhen Zhao](http://zhaozhen.me/).
+- **2026.08 - Present,** Meituan, LongCat Team.
+  - Working on GUI agents, including trajectory analysis, benchmark evaluation, and long-horizon task data construction.
+  - Algorithm Research Intern, mentored by Zhixiong Han.
+
+- **2025.04 - 2026.05,** Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab).
+  - Conducted research on multimodal reasoning, adaptive tool use, and reinforcement learning post-training, resulting in a first-author paper at ICML 2026.
+  - Participated in data preparation and CPT/SFT/GRPO training for an alloy-domain large language model.
+  - Research Intern, mentored by Dr. [Zhen Zhao](http://zhaozhen.me/).
 
 ## Publications
 
