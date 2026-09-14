@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student in [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) at Nanjing University and a member of [Reasoning & Learning Group](https://cs.nju.edu.cn/rl/index.htm), fortunately supervised by [Prof. Yinghuan Shi](https://cs.nju.edu.cn/shiyh/index.htm). My current research interests include multimodal large language model reasoning, semi-supervised medical image segmentation, and domain adaptation.
+I am a Ph.D. student in [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) at Nanjing University and a member of [Reasoning & Learning Group](https://cs.nju.edu.cn/rl/index.htm), fortunately supervised by [Prof. Yinghuan Shi](https://cs.nju.edu.cn/shiyh/index.htm). My research focuses on reinforcement learning-based post-training for multimodal large language models, GUI agents, semi-supervised medical image segmentation, and domain adaptation.
 
 
 ## Education
