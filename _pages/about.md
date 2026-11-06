@@ -35,6 +35,7 @@ I am a Ph.D. student in [Department of Computer Science and Technology](https://
 
 ## Honors & Awards
 
++ Insta360 Innovation Scholarship, 2026
 + Principal Investigator, Nanjing University Graduate “AI+” Research and Practice Innovation Program (Recommended for Postgraduate Research & Practice Innovation Program of Jiangsu Province), 2026
 + Yanbao Foundation Scholarship, 2025
 + First-Class Graduate Talent Scholarship, Nanjing University, 2024
