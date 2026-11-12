@@ -1,4 +1,3 @@
-<img width="265" height="34" alt="image" src="https://github.com/user-attachments/assets/0dff6622-ab09-4202-9aa8-bf8fd02b7401" />---
 permalink: /
 title: "Qinghe Ma"
 excerpt: "About me"
