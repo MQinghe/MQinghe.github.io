@@ -1,4 +1,4 @@
----
+<img width="265" height="34" alt="image" src="https://github.com/user-attachments/assets/0dff6622-ab09-4202-9aa8-bf8fd02b7401" />---
 permalink: /
 title: "Qinghe Ma"
 excerpt: "About me"
@@ -19,7 +19,7 @@ I am a Ph.D. student in [Department of Computer Science and Technology](https://
 
 - **2026.08 - Present,** Meituan, LongCat Team.
   - Working on GUI agents, including trajectory analysis, benchmark evaluation, and long-horizon task data construction.
-  - Algorithm Research Intern, mentored by Zhixiong Han.
+  - Algorithm Research Intern, mentored by Zhixiong Han and Yufei Chen.
 
 - **2025.04 - 2026.05,** Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab).
   - Conducted research on multimodal reasoning, adaptive tool use, and reinforcement learning post-training, resulting in a first-author paper at ICML 2026.
@@ -35,6 +35,7 @@ I am a Ph.D. student in [Department of Computer Science and Technology](https://
 
 ## Honors & Awards
 
++ Zhujian Program (Track B), 2026.
 + Insta360 Innovation Scholarship, 2026
 + Principal Investigator, Nanjing University Graduate “AI+” Research and Practice Innovation Program (Recommended for Postgraduate Research & Practice Innovation Program of Jiangsu Province), 2026
 + Yanbao Foundation Scholarship, 2025
